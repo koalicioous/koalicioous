@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello, there! 👋🏻
 
-<!--
-**koalicioous/koalicioous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ulil Albab Surya Negara here, commonly known as **[Koalicioous](https://www.instagram.com/koalicioous)** too. An Informatics student of Universitas Islam Indonesia and Product Designer at SejutaCita
 
-Here are some ideas to get you started:
+🌎 Contributing to organizations and communities in making audience-centered programs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏻‍💻 Writing codes in JavaScript and PHP
+
+💡 Helping small business and communities to build a strong digital existence
+
+🎙 Glad to have conversation about self-development
+
+## Reach me out!
+
+- [Instagram](https://www.instagram.com/koalicioous)
+- [Medium](https://koalicious.medium.com/)
+- [Linkedin](https://www.linkedin.com/in/surya-negara/)
+- [Twitter](https://twitter.com/Aoohan)
+
+![](https://komarev.com/ghpvc/?username=koalicioous)
